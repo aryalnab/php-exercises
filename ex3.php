@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-hi 
+hi , I am practing PHP--
     
 </body>
 </html>
